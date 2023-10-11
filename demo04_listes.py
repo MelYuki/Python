@@ -30,10 +30,6 @@ print(myList[2:]) # => depuis l'index 2 inclus, jusqu'au dernier élément!
 # De même avec les index négatifs
 print(myList[-4:-1]) # du -4 inclu, jusqu'au -1 exclu!
 
-# Vérifier si un élément existe avec une condition et le mot-clé "in"
-if "Poire" in myList:
-    print("Oui, Poire est dans la liste! ^^")
-
 
 # MODIFIER
 

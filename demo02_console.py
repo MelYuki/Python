@@ -2,8 +2,10 @@
 # - Les scripts Python s'exécutent dans un terminal!
 # - Ils peuvent s'exécuter en "output" mais cela ne permet aucune interaction avec l'utilisateur!
 
+
 # ÉCRIRE dans la console
 print("Hello World")
+
 
 # RETOURS à la ligne
 # => \n
@@ -15,3 +17,9 @@ print()
 
 # print avec chaine de caractère vide
 print("")
+
+
+# ÉCRIRE deux "print" sur une ligne
+# => end=" "
+print("Je suis", end=" ")
+print("Mel Yuki!")

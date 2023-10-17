@@ -41,6 +41,7 @@ print(exponentiation)
 
 # D'AFFECTATION
 
+# On les utilisera dans les "conditions" et les "boucles".
 # Combiner un "=" avec un opérateur,
 # pour factoriser le code.
 c = 3
@@ -61,8 +62,6 @@ c /= b # => ?
 
 # LOGIQUES (and, or, not) et de COMPARAISON (==, !=, <, >, <=, >=)
 
-# Avec les opérateurs d'affectation,
-# on les utilisera dans les "conditions" et les "boucles".
 # *** ATTENTION ***
 # Une comparaison retournera TOUJOURS un boolean! (True ou False)
 print(a == b) # égale, => ?

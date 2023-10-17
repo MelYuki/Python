@@ -23,3 +23,9 @@ print("")
 # => end=" "
 print("Je suis", end=" ")
 print("Mel Yuki!")
+
+
+# INTERACTION avec l'utilisateur (input)
+age = input("Bonjour Mel Yuki, quel age avez-vous? ")
+
+print("Hoooo... Vous avez donc " + age + " ans!")
